@@ -5,7 +5,7 @@
 ![kuakua](https://github.com/PanJianNan/auto-admire/blob/master/resources/kuakua_bgifo.png)
 5分钟50元，还有2000+的付款记录，还不错吧。
 
-在微信上看到一篇文章《“夸夸群”5分钟20块？！手把手教你定制一款专属夸夸机器人》，以此为鉴，让我手撸一个夸夸机器人吧。
+在微信上看到一篇文章[《“夸夸群”5分钟20块？！手把手教你定制一款专属夸夸机器人》](https://mp.weixin.qq.com/s/EssVIqNXLDWn_HubHzJ8Mw)，以此为鉴，让我们手撸一个夸夸机器人吧。
 <br/>
 
 ### 运行环境准备：
