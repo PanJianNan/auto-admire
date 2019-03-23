@@ -2,6 +2,8 @@
 2019年3月，三八妇女节送女友什么礼物好？最近有女网友在网上吐槽，男友把她拉进百人群，群友整整夸了她三分钟。“他说是某宝上卖的夸夸群，这种沙雕男朋友还留着么？”
 
 夸人还能挣钱？你在某宝、某鱼等平台输入搜索"夸夸群"，会发现不少商品都有成交记录。
+![kuakua](https://github.com/PanJianNan/auto-admire/blob/master/resources/kuakua_bgifo.png)
+5分钟50元，还有2000+的付款记录，还不错吧。
 
 在微信上看到一篇文章《“夸夸群”5分钟20块？！手把手教你定制一款专属夸夸机器人》，以此为鉴，让我手撸一个夸夸机器人吧。
 <br/>
@@ -41,6 +43,14 @@ python3 simple_admire.py
 - 你可以自己扩展赞美句库
 
 - 用来扫码的那个微信号就自动变成夸夸群机器人，要想体验被夸，需要夸夸群里别的微信号发送关键字信息来触发
+
+- 如果发现二维码显示不全的情况，请修改simple_admire.py
+```
+# Windows系统，enableCmdQR=True
+# itchat.auto_login(enableCmdQR=True, hotReload=True)
+# Mac、Linux，enableCmdQR=2
+itchat.auto_login(enableCmdQR=2, hotReload=True)
+```
 
 <br/>
 
